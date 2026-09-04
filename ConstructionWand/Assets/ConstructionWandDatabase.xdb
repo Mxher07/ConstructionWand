@@ -1,0 +1,7 @@
+﻿<ConstructionWand>
+      <ProjectTemplate Name="Project" Guid="85023bf8-1c90-4dd1-9442-e6c13691d078">
+  <MemberSubsystemTemplate Name="WandBehavior" Guid="3f8d8e1a-0000-0000-b546-d8d17e0f49f6" InheritanceParent="fefb9590-4972-4893-b02a-76063611b745">
+    <Parameter Name="Class" Guid="e0fe773f-0000-4fba-8211-72e25ef8000f" Value="Game.SubsystemWandBehavior" Type="string"/>
+  </MemberSubsystemTemplate>
+      </ProjectTemplate>
+</ConstructionWand>

@@ -1,0 +1,34 @@
+{
+  "BlocksManager": {
+    "ConstructionWand": "Construction Wands"
+  },
+  "Blocks": {
+    "StoneWandBlock:0": {
+      "DisplayName": "Stone Wand",
+      "Description": "A construction wand. Sneak to toggle between Placement Mode and Adjustment Mode."
+    },
+    "IronWandBlock:0": {
+      "DisplayName": "Iron Wand",
+      "Description": "A construction wand. Sneak to toggle between Placement Mode and Adjustment Mode."
+    },
+    "DiamondWandBlock:0": {
+      "DisplayName": "Diamond Wand",
+      "Description": "A construction wand. Sneak to toggle between Placement Mode and Adjustment Mode."
+    },
+    "InfinityWandBlock:0": {
+      "DisplayName": "Infinity Wand",
+      "Description": "An unbreakable construction wand. Places blocks without consuming durability."
+    }
+  },
+  "ConstructionWand": {
+    "PlacementMode": "Placement Mode",
+    "AdjustMode": "Adjustment Mode",
+    "ModeChanged": "Mode: {0}",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "DirectionChanged": "Placement direction: {0}",
+    "NoTarget": "Place a block in the hotbar slot to the right of the wand",
+    "NoItems": "No {0} in inventory",
+    "Broken": "The wand has no durability left"
+  }
+}

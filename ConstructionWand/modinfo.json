@@ -1,0 +1,14 @@
+{
+  "Name": "ConstructionWand",
+  "Version": "1.0.0",
+  "ApiVersion": "1.9.3",
+  "Description": "",
+  "ScVersion": "2.4.0.0",
+  "LoadOrder": 1000,
+  "NonPersistentMod": false,
+  "GameplayImpactLevel": "Turbo",
+  "Link": "https://github.com/Mxher07/ConstructionWand",
+  "Author": "VLWuro",
+  "PackageName": "VL.ConstructionWand",
+  "Dependencies": {}
+}

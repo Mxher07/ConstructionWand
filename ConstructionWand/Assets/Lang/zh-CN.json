@@ -1,0 +1,34 @@
+{
+  "BlocksManager": {
+    "ConstructionWand": "建筑手杖"
+  },
+  "Blocks": {
+    "StoneWandBlock:0": {
+      "DisplayName": "石质手杖",
+      "Description": "一种建筑手杖。每放置一个方块消耗一点耐久，蹲下可切换放置模式与调整模式。"
+    },
+    "IronWandBlock:0": {
+      "DisplayName": "铁质手杖",
+      "Description": "一种建筑手杖。每放置一个方块消耗一点耐久，蹲下可切换放置模式与调整模式。"
+    },
+    "DiamondWandBlock:0": {
+      "DisplayName": "钻石手杖",
+      "Description": "一种建筑手杖。每放置一个方块消耗一点耐久，蹲下可切换放置模式与调整模式。"
+    },
+    "InfinityWandBlock:0": {
+      "DisplayName": "无限手杖",
+      "Description": "无法损坏的建筑手杖，放置方块不消耗耐久。"
+    }
+  },
+  "ConstructionWand": {
+    "PlacementMode": "放置模式",
+    "AdjustMode": "调整模式",
+    "ModeChanged": "模式：{0}",
+    "Horizontal": "横向",
+    "Vertical": "竖向",
+    "DirectionChanged": "放置方向：{0}",
+    "NoTarget": "请在手杖右侧的快捷栏格子内放入要放置的方块",
+    "NoItems": "背包中没有 {0}",
+    "Broken": "手杖耐久已耗尽"
+  }
+}
